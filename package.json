@@ -1,0 +1,22 @@
+{
+  "name": "monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-request": "^0.3.3",
+    "cheerio": "^1.0.0-rc.3",
+    "crawler": "^1.2.1",
+    "crawler-request": "^1.2.2",
+    "headless-chrome-crawler": "^1.8.0",
+    "proxy-lists": "^1.16.0",
+    "puppeteer": "^1.17.0",
+    "request": "^2.88.0"
+  }
+}
